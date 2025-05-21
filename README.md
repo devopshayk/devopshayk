@@ -1,5 +1,4 @@
 # 💫 About Me:
-Hello my name is Hayk I love my CPP TEACHER.
 
 
 # 💻 Tech Stack:
